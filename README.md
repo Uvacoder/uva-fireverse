@@ -1,14 +1,5 @@
 # FireVerse
 
-A full-feature messenger clone built with React and Firebase
-
-<p align="center">
-  <img alt="Stars" src="https://badgen.net/github/stars/napthedev/fireverse">
-  <img alt="Forks" src="https://badgen.net/github/forks/napthedev/fireverse">
-  <img alt="Issues" src="https://badgen.net/github/issues/napthedev/fireverse">
-  <img alt="Commits" src="https://badgen.net/github/commits/napthedev/fireverse">
-</p>
-
 ## Live demo
 
 Official Website: [https://fireverse.pages.dev](https://fireverse.pages.dev)
